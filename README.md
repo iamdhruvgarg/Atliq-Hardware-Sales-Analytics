@@ -1,38 +1,71 @@
 
-# 📊 AtliQ Hardware – Business Performance Reports (2019–2021)
 
-Welcome to a comprehensive suite of data-driven performance reports curated for AtliQ Hardware, spanning customers, divisions, geographies, and products. These reports are designed to support strategic decision-making, marketing insights, and financial planning across business units.
+# 📊 AtliQ Hardware – End-to-End Sales Data Analysis (2019–2021)
 
-### 🧾 Report Overview
-
-| Report Title                      | Description                                                                                                       |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Customers' Performance Report** | Year-over-year revenue growth analysis by individual customers (2019–2021), including % growth from 2020 to 2021. |
-| **Division Level Report**         | Sales performance summary by divisions (N\&S, P\&A, PC) with comparative metrics for 2020 and 2021.               |
-| **GM% by Quarters (Sub-Zone)**    | Quarterly gross margin percentage trends by sub-zone across FY 2019–2021.                                         |
-| **Market Performance vs Target**  | Market-level sales vs target report highlighting underperforming regions and percentage shortfall.                |
-| **New Products – 2021**           | Performance of newly launched products in 2021 with corresponding revenue contribution.                           |
-| **P\&L for Markets**              | Full P\&L analysis (Net Sales, COGS, Gross Margin, GM%) by country for FY 2021.                                   |
-| **Top 5 Countries – 2021**        | Top 5 countries by net sales contribution in 2021.                                                                |
-| **Top & Bottom 5 Products**       | Product-level performance ranking by quantity sold.                                                               |
-| **Top 10 Products**               | Highest revenue-generating products of 2021 with YoY growth.                                                      |
+This project presents a comprehensive **end-to-end sales data analysis** for **AtliQ Hardware**, transforming raw, unstructured datasets into powerful business insights that support strategic decision-making.
 
 ---
 
-### 🔍 Key Features:
+### 🛠️ Tools & Techniques Used:
 
-* Time-based and comparative performance metrics
-* Granular breakdown by product, geography, division, and customer
-* Revenue, gross margin %, targets vs actuals, and growth trends
+* **Microsoft Excel** for dashboarding and reporting
+* **Power Query** for data cleaning, transformation, and merging
+* **Power Pivot** for data modeling, relationship building, and DAX measures
+* **Pivot Tables** for drill-down analytics and performance comparison
+
+---
+
+### 📈 Key Project Highlights:
+
+#### 🔧 Data Cleaning & Transformation
+
+Utilized Power Query to clean, merge, and standardize raw datasets — laying the foundation for structured, reliable analysis.
+
+#### 📊 Data Modeling & Pivot Analysis
+
+Created robust data models in Power Pivot to support multi-dimensional analysis across **regions**, **products**, **customers**, and **divisions**.
+
+#### 📃 Financial & Market Reporting
+
+Generated detailed **Profit & Loss (P\&L) statements**, gross margin (GM%) reports, and performance summaries by market, division, and sub-zone.
+
+#### 💡 Insights & Business Recommendations
+
+Identified high-performing markets, low-margin products, YoY growth trends, and missed targets — offering key inputs for strategy and resource planning.
+
+#### ✅ Outcomes
+
+Turned disorganized sales data into actionable intelligence. Pinpointed performance gaps and growth opportunities through clear, data-backed storytelling.
+
+---
+
+### 📁 Reports Included:
+
+| Report Name                       | Description                                        |
+| --------------------------------- | -------------------------------------------------- |
+| **Customers' Performance Report** | YoY revenue by customer with growth %.             |
+| **Division Level Report**         | Sales summary by business divisions.               |
+| **GM% by Quarters (Sub-Zone)**    | Gross margin trends across quarters and sub-zones. |
+| **Market Performance vs Target**  | Sales vs target with shortfall metrics.            |
+| **New Products – 2021**           | Launch performance of new SKUs.                    |
+| **P\&L for Markets**              | Country-level financial breakdown.                 |
+| **Top 5 Countries – 2021**        | Leading revenue contributors.                      |
+| **Top & Bottom 5 Products**       | Best and least-performing products.                |
+| **Top 10 Products**               | Fastest growing SKUs by revenue growth.            |
 
 ---
 
 ### 🎯 Ideal For:
 
-* Aspiring Data Analysts building dashboards and visualizations
-* Business Analysts identifying strategic insights
-* Managers and decision-makers exploring market opportunities
+* Aspiring **Data Analysts** and **Business Analysts**
+* Portfolio showcase for **Excel BI** projects
+* Learning case for real-world **retail and financial analysis**
 
 ---
 
-Let me know if you’d like a matching Power BI / Tableau dashboard to visualize this data! I can also help you write a personalized LinkedIn post using this content.
+### 🧠 Skills Demonstrated:
+
+**Microsoft Excel** · **Power Query** · **Power Pivot** · **Pivot Tables** · **Financial Analysis** · **Market Intelligence** · **Business Insight Generation**
+
+---
+
