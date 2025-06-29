@@ -1,10 +1,5 @@
-# Excel-Sales-Analytics
 
-Here’s a **professional and clear README intro** you can use for the collection of PDF reports you uploaded. This is ideal for sharing in a LinkedIn post, GitHub/portfolio project, or internal team documentation:
-
----
-
-## 📊 AtliQ Hardware – Business Performance Reports (2019–2021)
+# 📊 AtliQ Hardware – Business Performance Reports (2019–2021)
 
 Welcome to a comprehensive suite of data-driven performance reports curated for AtliQ Hardware, spanning customers, divisions, geographies, and products. These reports are designed to support strategic decision-making, marketing insights, and financial planning across business units.
 
