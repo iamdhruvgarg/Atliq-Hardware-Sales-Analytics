@@ -55,14 +55,6 @@ Turned disorganized sales data into actionable intelligence. Pinpointed performa
 
 ---
 
-### 🎯 Ideal For:
-
-* Aspiring **Data Analysts** and **Business Analysts**
-* Portfolio showcase for **Excel BI** projects
-* Learning case for real-world **retail and financial analysis**
-
----
-
 ### 🧠 Skills Demonstrated:
 
 **Microsoft Excel** · **Power Query** · **Power Pivot** · **Pivot Tables** · **Financial Analysis** · **Market Intelligence** · **Business Insight Generation**
