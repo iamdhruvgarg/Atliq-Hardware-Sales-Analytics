@@ -60,15 +60,15 @@ Turned disorganized sales data into actionable intelligence. Pinpointed performa
 **Microsoft Excel** · **Power Query** · **Power Pivot** · **Pivot Tables** · **Financial Analysis** · **Market Intelligence** · **Business Insight Generation**
 
 ---
-**A Quick View from the Reports**
+### **A Quick View from the Reports**
 
-*Customer Performance Report*
+## *Customer Performance Report*
 <img width="605" height="797" alt="image" src="https://github.com/user-attachments/assets/5d98535b-fc41-4c20-b443-1b7bdaab8530" />
 
-*Top 5 Customers*
+## *Top 5 Customers*
 <img width="927" height="563" alt="image" src="https://github.com/user-attachments/assets/4037de55-1c3b-437a-8b3f-a3e2a500c7cd" />
 
-*Top 10 Products*
+## *Top 10 Products*
 <img width="909" height="592" alt="image" src="https://github.com/user-attachments/assets/bd47a74b-5917-46f4-98db-4a70635cfefa" />
 
 
