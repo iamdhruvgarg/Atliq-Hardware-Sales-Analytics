@@ -1,6 +1,6 @@
 
 
-# 📊 AtliQ Hardware – End-to-End Sales Data Analysis (2019–2021)
+# 📊 AtliQ Hardware – End-to-End Sales Data Analysis
 
 Here presenting a comprehensive **end-to-end sales data analysis** for **AtliQ Hardware**, transforming raw, unstructured datasets into powerful business insights that support strategic decision-making.
 
