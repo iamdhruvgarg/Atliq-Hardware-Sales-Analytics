@@ -2,63 +2,50 @@
 
 # 📊 AtliQ Hardware – End-to-End Sales Data Analysis
 
-Here presenting a comprehensive **end-to-end sales data analysis** for **AtliQ Hardware**, transforming raw, unstructured datasets into powerful business insights that support strategic decision-making.
+## Sales Report :
 
----
 
-### 🛠️ Tools & Techniques Used:
+- **Project objective:** 
 
-* **Microsoft Excel** for dashboarding and reporting
-* **Power Query** for data cleaning, transformation, and merging
-* **Power Pivot** for data modeling, relationship building, and DAX measures
-* **Pivot Tables** for drill-down analytics and performance comparison
+    **1.** Create a _[customer performance report]((https://github.com/iamdhruvgarg/Atliq-Hardware-Sales-Analytics/blob/main/Customers'%20Performance%20Report.pdf))_ 
 
----
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]((https://github.com/iamdhruvgarg/Atliq-Hardware-Sales-Analytics/blob/main/Customers'%20Performance%20Report.pdf))_
 
-### 📈 Key Project Highlights:
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-#### 🔧 Data Cleaning & Transformation
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-Utilized Power Query to clean, merge, and standardize raw datasets — laying the foundation for structured, reliable analysis.
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-#### 📊 Data Modeling & Pivot Analysis
 
-Created robust data models in Power Pivot to support multi-dimensional analysis across **regions**, **products**, **customers**, and **divisions**.
+## Finance Report :
 
-#### 📃 Financial & Market Reporting
+- **Project objective:** 
 
-Generated detailed **Profit & Loss (P\&L) statements**, gross margin (GM%) reports, and performance summaries by market, division, and sub-zone.
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/iamdhruvgarg/Atliq-Hardware-Sales-Analytics/blob/main/P%26L%20for%20Markets.pdf)_ 
 
-#### 💡 Insights & Business Recommendations
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/iamdhruvgarg/Atliq-Hardware-Sales-Analytics/blob/main/P%26L%20for%20Markets.pdf)_
 
-Identified high-performing markets, low-margin products, YoY growth trends, and missed targets — offering key inputs for strategy and resource planning.
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-#### ✅ Outcomes
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-Turned disorganized sales data into actionable intelligence. Pinpointed performance gaps and growth opportunities through clear, data-backed storytelling.
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
----
 
-### 📁 Reports Included:
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
 
-| Report Name                       | Description                                        |
-| --------------------------------- | -------------------------------------------------- |
-| **Customers' Performance Report** | YoY revenue by customer with growth %.             |
-| **Division Level Report**         | Sales summary by business divisions.               |
-| **GM% by Quarters (Sub-Zone)**    | Gross margin trends across quarters and sub-zones. |
-| **Market Performance vs Target**  | Sales vs target with shortfall metrics.            |
-| **New Products – 2021**           | Launch performance of new SKUs.                    |
-| **P\&L for Markets**              | Country-level financial breakdown.                 |
-| **Top 5 Countries – 2021**        | Leading revenue contributors.                      |
-| **Top & Bottom 5 Products**       | Best and least-performing products.                |
-| **Top 10 Products**               | Fastest growing SKUs by revenue growth.            |
-
----
-
-### 🧠 Skills Demonstrated:
-
-**Microsoft Excel** · **Power Query** · **Power Pivot** · **Pivot Tables** · **Financial Analysis** · **Market Intelligence** · **Business Insight Generation**
-
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
 ---
 ### **A Quick View from the Reports**
 
